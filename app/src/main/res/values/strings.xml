@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercisio11</string>
+    <string name="Titulo">Guarda Valores BD</string>
+    <string name="hin_Nombre">Nombre</string>
+    <string name="hint_Telefono">Ingresa un telefono</string>
+    <string name="btn_guardar">Guardar</string>
+</resources>
